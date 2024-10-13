@@ -19,13 +19,13 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniFile.WebSample", "sample
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "FileSystem", "FileSystem", "{FB55B60E-83AF-4E41-8E7D-2EA402D99405}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniFile.Infrastructure.FileSystem", "UniFile.Infrastructure.FileSystem\UniFile.Infrastructure.FileSystem.csproj", "{14DBECE0-393F-43CD-9130-89F72BFDCD76}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniFile.Infrastructure.FileSystem", "src\UniFile.Infrastructure.FileSystem\UniFile.Infrastructure.FileSystem.csproj", "{14DBECE0-393F-43CD-9130-89F72BFDCD76}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Tests", "Tests", "{1341782A-B7AA-484D-9A37-AADFA7E291D4}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Unit Tests", "Unit Tests", "{DD455286-94A2-4C71-88AB-BFBF0D44E9A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniFile.UnitTests", "UniFile.UnitTests\UniFile.UnitTests.csproj", "{378F7C75-8E43-430B-AA56-58C7B6185041}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniFile.UnitTests", "tests\UniFile.UnitTests\UniFile.UnitTests.csproj", "{378F7C75-8E43-430B-AA56-58C7B6185041}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
